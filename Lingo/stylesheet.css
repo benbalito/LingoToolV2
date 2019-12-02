@@ -1,0 +1,71 @@
+
+body{
+	background-color: #00ffd2;
+}
+
+.HeaderBox{
+	text-align: center;
+	margin-top: 75px;
+}
+
+.title1{
+	text-align: left;
+	margin-right: 15px;
+	color: white;
+	margin-top: -23px;
+	float: right;
+	clear: both;
+	background-color: #555555;
+	border: none;
+	padding: 15px 32px;
+	text-decoration: none;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.title2{
+	margin-top: -23px;
+	text-align: left;
+	color: white;
+	background-color: #555555;
+	border: none;
+	padding: 15px 32px;
+	text-decoration: none;
+	font-size: 16px;
+	cursor: pointer;
+	margin-left: 15px;
+	
+}
+
+.header{
+	border: 1px solid black;
+	margin: 0px auto;
+	padding: 32px;
+	background-color: #028a73;
+	width: auto;
+}
+
+.footer{
+	border: 1px solid black;
+	margin: 0px auto;
+	padding: 5px;
+	background-color: #028a73;
+	width: auto;
+	margin-top: 230px;
+}
+
+.searchbar{
+	border: 16px #fff solid;
+	float: middle;
+	text-align: middle;
+	position: absolute;
+	left: 31%;
+	width: 36.5%;
+	top: 2.5%;
+	border: ;
+}
+
+.terms{
+	text-align: center;
+}
+
